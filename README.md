@@ -7,3 +7,4 @@ bin/kafka-topics.sh --zookeeper zookeeper0:12181/kafka --topic users  --create -
 
 bin/kafka-topics.sh --zookeeper zookeeper0:12181/kafka --topic orderuser-by-item  --create --partitions 3 --replication-factor 1
 bin/kafka-topics.sh --zookeeper zookeeper0:12181/kafka --topic orderuseritem-by-category --create --partitions 3 --replication-factor 1
+# dgkafkabighomework
